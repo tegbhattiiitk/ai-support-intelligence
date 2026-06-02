@@ -235,8 +235,8 @@ Record this flow using a tool like [Kap](https://getkap.co/) (free, Mac):
 
 ## Author
 
-**Tejas Bhatt**
-- GitHub: [@tegbhattiitk](https://github.com/tegbhattiitk)
+**Teg Partap Bhatti**
+- GitHub: [@tegbhattiiitk](https://github.com/tegbhattiiitk)
 - Project type: Public portfolio project — AI / Data / Program Management
 
 ---
